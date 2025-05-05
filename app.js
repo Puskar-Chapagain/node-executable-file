@@ -1,4 +1,4 @@
-console.log('Hello there');
+console.log('Starting Timer');
 
 let time = 1;
 
