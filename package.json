@@ -1,0 +1,14 @@
+{
+  "name": "console-timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "pkg -t node16-win-x64 app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pkg": "^5.8.1"
+  }
+}
